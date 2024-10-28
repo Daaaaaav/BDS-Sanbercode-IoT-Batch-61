@@ -1,0 +1,21 @@
+Data Peserta Bootcamp Digital Skill Internet of Things Development
+
+1. Nama: Davina Ritzky Amarina
+
+2. Email: davinad828@gmail.com
+
+3. Sistem Operasi yang digunakan: Windows 11
+
+4. Akun Github: Daaaaaav
+
+5. Akun Telegram: Davina Amarina
+
+6. Status (Bekerja/Mahasiswa): Mahasiswa
+
+7. Umur: 18
+
+8. Pernah menggunakan C++? : Pernah
+
+9. Bahasa Pemrograman yg pernah dipelajari: Python, Java, C++, PHP, Go
+
+10. Pernah membuat Proyek Internet of Things? : Belum
